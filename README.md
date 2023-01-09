@@ -3,7 +3,7 @@
 
 Skills: Java / Spring
 
-- 🔭 I’m currently working on  a pet-project 
+- 🔭 I’m currently working on  a [pet-project](https://github.com/EgorGagarin/bankIPA)
 - 📫 How to reach me: egor.gagarin.work@gmail.com 
 
 <!--
